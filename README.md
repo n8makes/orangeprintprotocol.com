@@ -1,19 +1,9 @@
-# HTML/CSS/JS Base styled
+# orangeprintprotocol.com
 
-A simple starter template for web development with HTML, CSS, and JavaScript. With modern normalize CSS, basic CSS variables, and styling. It also includes Google fonts example.
+A protocol to maximize health over time. A hybrid approach that combines sun, steak, and steel with some Blueprint protocols. Live longer and enjoy life.
 
-## Usage
+## Static Website
 
-This template includes:
-- Basic HTML structure
-- Linked CSS file
-- Linked JavaScript file
+Built with HTML, CSS, and Javascript.
 
-Just start editing the files:
-- index.html - Main HTML file
-- style.css - CSS styling
-- script.js - JavaScript code
-
-## License
-
-Feel free to use this template for any of your projects.
+[orangeprintprotocol.com](https://orangeprintprotocol.com)
