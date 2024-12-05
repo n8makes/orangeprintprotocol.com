@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background-color: var(--background-color);
+  background-color: #fff;
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
@@ -29,7 +29,10 @@ body {
 
 header {
   padding: var(--desktop-spacing);
-  background-color: var(--background-secondary-color);
+  background-color: #fdfdfd;
+  border-bottom: 1px solid #efefef;
+  box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.1);
+  text-align: center;
 }
 
 header h1 {
